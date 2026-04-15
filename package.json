@@ -19,6 +19,6 @@
 	},
 	"dependencies": {
 		"d3": "^7.9.0",
-		"mapbox-gl": "^3.20.0"
+		"mapbox-gl": "3.20.0"
 	}
 }
